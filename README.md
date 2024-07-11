@@ -54,8 +54,3 @@ Antes de comenzar, asegúrate de tener el entorno de desarrollo adecuado configu
 
 ¡Buena suerte y disfruta de tu experiencia de desarrollo en Java!
 
----
-
-Si tienes alguna pregunta o necesitas ayuda adicional, no dudes en contactarme.
-
-**Jovany Rios Estrada**
